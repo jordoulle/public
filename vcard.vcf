@@ -7,10 +7,9 @@ ORG:OJO Consulting;
 TITLE:Cloud Data & Artificial Intelligence Engineer
 item1.EMAIL;type=INTERNET;type=pref:jordan.doulle@ojoconsulting.com
 item1.X-ABLabel:mail
-item2.TEL;type=pref:+33623463355
-item2.X-ABLabel:phone
-item3.URL;type=pref:https://www.linkedin.com/in/jordan-doullé-86286888/
-item3.X-ABLabel:url
+TEL;type=CELL;type=VOICE;type=pref:+33623463355
+item2.URL;type=pref:https://www.linkedin.com/in/jordan-doullé-86286888/
+item2.X-ABLabel:url
 PHOTO;ENCODING=b;TYPE=JPEG:/9j/4AAQSkZJRgABAQAAkACQAAD/4QB0RXhpZgAATU0AKgAA
  AAgABAEaAAUAAAABAAAAPgEbAAUAAAABAAAARgEoAAMAAAABAAIAAIdpAAQAAAABAAAATgAAAA
  AAAACQAAAAAQAAAJAAAAABAAKgAgAEAAAAAQAAC2igAwAEAAAAAQAAC2gAAAAA/+0AOFBob3Rv
